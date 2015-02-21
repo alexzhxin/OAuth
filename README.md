@@ -1,8 +1,6 @@
 # OAuth for Node
 =====
 
-[![Build Status](https://travis-ci.org/wpreul/OAuth.png)](https://travis-ci.org/wpreul/OAuth)
-
 ## Contributors
 The following individuals have been really helpful in getting this module where it is today.
  * @thatguydan
